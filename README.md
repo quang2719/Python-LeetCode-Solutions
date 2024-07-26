@@ -1,22 +1,29 @@
-# 🔝 Top Interview Questions 💼
+# 🐍 Python LeetCode Solutions 🚀
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)](https://www.python.org/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solved-yellowgreen?style=flat-square&logo=leetcode)](https://leetcode.com/)
 
-Welcome to my repository of top LeetCode interview questions! Here, I'm preparing for technical interviews by practicing and documenting my solutions in Python. 💪
-**Looking for structured guidance? Check out LeetCode's official interview preparation resources:**
+Welcome to my repository of LeetCode solutions in Python! This is where I store and organize my solutions by topic, making it easier for me to review and reinforce my Python skills through LeetCode practice.
 
-👉 [Link to LeetCode Top Interview Question](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)
-## 🚀 How to Use
+## 🎯 Goals
 
-1. 📥 Clone this repository: `https://github.com/quang2719/Top-interview-questions-Leetcode`
-2. 📂 Navigate to a specific topic: `cd top-interview-questions/topic-name`
-3. ▶️ Run a solution: `python problem-name.py`
+* **Structured Learning:** Break down LeetCode problems into specific topics for easier understanding and mastery of each concept.
+* **Storage and Reference:** Create a reliable personal resource for review and future reference.
+* **Knowledge Sharing:** Hopefully, this repository will be helpful for others learning Python and practicing on LeetCode.
 
-## 🚧 Disclaimer
+## 🚀 Current Topics
 
-These solutions are my personal attempts and may not be the most optimal. Feel free to explore, learn, and suggest improvements! 🙏
+* 🔝 **[Top Interview Questions](https://leetcode.com/explore/featured/card/top-interview-questions-easy/)** Common interview questions found on LeetCode.
+* 🔁 **[Recursion](https://leetcode.com/explore/learn/card/recursion-i/)** Problems involving recursion.
 
-## 📜 License
 
-This repository is licensed under the MIT License.
+## 🤝 Contributions
+
+If you find any errors or have better solutions, feel free to contribute by creating a Pull Request. All contributions are welcome!
+
+## 📝 Notes
+
+* The solutions in this repository are written in Python 3.x.
+* I will try to update this repository regularly with new topics and solutions.
+
+**Happy learning and LeetCode conquering!** 💪
