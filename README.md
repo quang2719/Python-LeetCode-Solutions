@@ -1,4 +1,4 @@
-# 🐍 Python LeetCode Solutions 🚀
+ 🐍 Python LeetCode Solutions 🚀
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)](https://www.python.org/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solved-yellowgreen?style=flat-square&logo=leetcode)](https://leetcode.com/)
@@ -15,7 +15,7 @@ Welcome to my repository of LeetCode solutions in Python! This is where I store 
 
 * 🔝 **[Top Interview Questions](https://leetcode.com/explore/featured/card/top-interview-questions-easy/)** Common interview questions found on LeetCode.
 * 🔁 **[Recursion](https://leetcode.com/explore/learn/card/recursion-i/)** Problems involving recursion.
-
+* 🐼 **[Introduction to Pandas](https://leetcode.com/studyplan/introduction-to-pandas/)**
 
 ## 🤝 Contributions
 
